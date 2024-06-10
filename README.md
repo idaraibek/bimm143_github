@@ -9,6 +9,6 @@ My classwork for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) a
 - **Class 9** [Halloween Candy Mini Project](Class09)
 - **Class 10** [Structural Bioinformatics](class10.rpro.pdf)
 - **Class 11** [Genome informatics and high throughput sequencing](Class11.rpro.pdf)
-- **Class 13** [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists]()
+- **Class 13** [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists](class13.rpro.pdf)
 - **Class 14** [RNA-Seq mini project]()
 - **Class 18**[Investigating pertussis resurgence mini project]()
