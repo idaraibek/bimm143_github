@@ -7,7 +7,7 @@ My classwork for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) a
 - **Class 7** [Machine learning](Class%207/class-7.pdf)
 - **Class 8** [Unsupervised learning mini project](Class-8-R.pro.pdf)
 - **Class 9** [Halloween Candy Mini Project](Class09)
-- **Class 10** [Structural Bioinformatics]()
+- **Class 10** [Structural Bioinformatics](class10.rpro.pdf)
 - **Class 11** [Genome informatics and high throughput sequencing]()
 - **Class 13** [Transcriptomics, RNA-Seq analysis, and the interpretation of gene lists]()
 - **Class 14** [RNA-Seq mini project]()
